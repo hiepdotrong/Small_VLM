@@ -1,0 +1,8 @@
+                    "Describe the person strictly in this format: "
+                    "[gender:, age:, shirt: (color, type, pattern, sleeve length), "
+                    "pants: (color, type, pattern, length), "
+                    "shoes: (color, type, details), "
+                    "accessories: (type, color)]. "
+                    "Include 'length' as a required attribute for pants (e.g., short, long). "
+                    "Only include visible details."
+                    "Do not add extra text or symbols."
